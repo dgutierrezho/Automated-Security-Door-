@@ -13,6 +13,14 @@ https://github.com/user-attachments/assets/3cef6c3d-02a9-4073-a913-ffc11498aba4
 
 ---
 
+## Engineering Problem
+### Design Intent & Scope
+The project was developed for the **DigiKey × Qualcomm track**, which provided a high-fidelity wooden dollhouse as a physical constraint. The challenge was to transform this static model into a "Smart Home" environment using the Arduino Uno Q ecosystem. 
+
+Unlike traditional prompts with fixed requirements, this track offered full design autonomy. Our team identified **Physical Security** as the primary engineering focus, aiming to develop a reliable, motorized entry system that could be seamlessly integrated into the dollhouse's existing structural frame.
+
+---
+
 ## Tools Used
 * **Microcontroller:** Arduino Uno Q (Logic Controller)
 * **Input Interface:** 4-button Keypad with LED 
