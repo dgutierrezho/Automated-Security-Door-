@@ -41,15 +41,7 @@ The C-language firmware manages:
 
 ---
 
-## 4. Engineering Contributions & Leadership
-* **System Architecture:** Designed the end-to-end communication flow between the logic controller and actuators.
-* **Firmware Engineering:** Authored the primary logic controller code, focusing on debouncing algorithms and credential verification.
-* **Protocol Debugging:** Identified and resolved timing jitters in the communication protocols between the microcontroller and the Modulino nodes, ensuring sub-100ms response times.
-* **Team Leadership:** Led a 4-member engineering team (Team G-CAD) through the design, assembly, and testing phases, delivering a fully functional prototype within the 24-hour competition window.
-
----
-
-## 5. Visual Documentation
+## 4. Visual Documentation
 
 ### Physical Build
 
