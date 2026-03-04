@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Project Abstract
+## Project Overview
 A high-integrity embedded access control system developed during a 24-hour rapid prototyping sprint. The system utilizes the **Arduino Uno Q** and **Modulino** ecosystem to bridge secure digital authentication with mechanical actuation. The project focuses on real-time logic processing, low-latency peripheral communication, and robust hardware-software integration.
 
 
@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/3cef6c3d-02a9-4073-a913-ffc11498aba4
 
 ---
 
-## 2. Technical Specifications
+## Tools Used
 * **Microcontroller:** Arduino Uno Q (Logic Controller)
 * **Input Interface:** 4-button Keypad with LED 
 * **Actuation:** PWM-controlled Servomotor (High-torque locking mechanism)
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/3cef6c3d-02a9-4073-a913-ffc11498aba4
 
 ---
 
-## 3. System Architecture & Design
+## Technical Implementation
 The architecture follows a synchronous polling model for user input, coupled with an interrupt-driven response for physical actuation. 
 
 ### Hardware Design
@@ -41,7 +41,7 @@ The C-language firmware manages:
 
 ---
 
-## 4. Visual Documentation
+## Results
 
 ### Physical Build
 
