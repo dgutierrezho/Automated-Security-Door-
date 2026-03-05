@@ -37,9 +37,13 @@ The architecture follows a synchronous polling model for user input, coupled wit
 ### Hardware Design
 The system was designed for modularity using the Modulino architecture. I oversaw the hardware-software mapping to ensure all sensors and actuators shared a common ground plane and stable voltage levels to prevent logic errors during motor high-draw events.
 
-![IMG_7844](https://github.com/user-attachments/assets/d34dd895-6abc-4994-9879-26da88eae667)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d34dd895-6abc-4994-9879-26da88eae667" width="600">
+</p>
+<p align="center">
+  System Wiring Diagram and Pin Mapping for Arduino Uno Q.
+</p>
 
-**System Wiring Diagram and Pin Mapping for Arduino Uno Q.**
 
 ### Firmware Logic
 The C-language firmware manages:
@@ -53,16 +57,22 @@ The C-language firmware manages:
 
 ### Physical Build
 
-![IMG_9804](https://github.com/user-attachments/assets/3b739397-02c7-478b-887b-680d67405646)
-
-
-**Internal hardware assembly and cable management.**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b739397-02c7-478b-887b-680d67405646" width="500">
+</p>
+<p align="center">
+  Internal hardware assembly and cable management.
+</p>
 
 ### Functional Validation
 
-![IMG_1239 (1)](https://github.com/user-attachments/assets/6da7244a-b8db-4a28-a58e-4af3000f40dd)
-
-**Final mechanical assembly featuring integrated security hardware.**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6da7244a-b8db-4a28-a58e-4af3000f40dd" width="500">
+</p>
+    
+<p align="center">
+  Final mechanical assembly featuring integrated security hardware.
+</p>
 
 ---
 
